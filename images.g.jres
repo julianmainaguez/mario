@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAP8PAAAAAAAA/w8AAAAAAAD/DwAAAAAAAPAAAAAAAAAA/e4AAAABANAA7gAAENLdIiLrAAAg8d0REesAABDS3RERAAAAIPLdERHrAAAQ0t0iIusAAAABANAA7gAAAAAAAN3uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "toad"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
